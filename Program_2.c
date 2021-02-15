@@ -11,8 +11,8 @@
 int main()
 {
 //Decleade Integer n and write scanf code bellow 
-
-
+int n;
+scanf("%d",&n);
 //if you write correcr code your value will print
 printf("%d",n);
 printf("Good Job...");
